@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshajiniran" alt="joshajiniran" /></a> </p>
 
-- 🌱 I’m currently learning **Go and delving into some DevOps.**
+- 🌱 I’m currently diving into **DevOps 😍**
 
 - 📫 How to reach me **josuajiniran@gmail.com**
 
-- ⚡ Fun fact **Loves to play piano, write lyrics and sing. Funny too**
+- ⚡ Fun fact **Loves to play piano, write lyrics and sing. I think I'm funny too but a bit introvertish 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
