@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Josh</h1>
+<h1 align="center">Hey 👋, I'm Josh AJ</h1>
 <h3 align="center">A prodigy software engineer (backend inclined). Primarily Python and JavaScript</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshajiniran" alt="joshajiniran" /></a> </p>
