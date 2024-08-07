@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Josh AJ</h1>
-<h3 align="center">Software Engineer (backend inclined). Python | PHP | Frameworks | DevOps | Software Architecture</h3>
+<h3 align="center">Software Engineer - Python | PHP | Frameworks | DevOps | Software Architecture</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshajiniran" alt="joshajiniran" /></a> </p>
 
