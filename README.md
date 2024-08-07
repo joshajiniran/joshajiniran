@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Josh AJ</h1>
-<h3 align="center">A prodigy software engineer (backend inclined). Primarily Python, PHP and JavaScript</h3>
+<h3 align="center">A prodigy software engineer (backend inclined). Python | PHP | Frameworks | DevOps | Software Architecture</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshajiniran" alt="joshajiniran" /></a> </p>
 
-- 🌱 I’m currently diving into **DevOps 😍**
+- 🌱 I’ve always gotten fascinated with **IoT 😍**
 
 - 📫 How to reach me **josuajiniran@gmail.com**
 
-- ⚡ Fun fact **Loves to play piano, write lyrics and sing. I think I'm funny too but a bit introvertish 🤓**
+- ⚡ Fun fact **Loves to play piano, and guitar, write lyrics, and sing them. Quite introvertish, but funny around my circle 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
