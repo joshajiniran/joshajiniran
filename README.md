@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **josuajiniran@gmail.com**
 
-- ⚡ Fun fact **Loves to play piano, and guitar, write lyrics, and sing them. Quite introvertish, but funny around my circle 🤓**
+- ⚡ Fun fact **Plays piano, guitar, write lyrics, and sing them. Quite introvertish, possesses great sense of humour. 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
