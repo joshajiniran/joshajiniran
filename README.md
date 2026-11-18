@@ -1,17 +1,12 @@
 <h1 align="center">Hey 👋, I'm Joshua (You could simply call me Josh 😉)</h1>
-<h3 align="center">Software Engineer - Python | PHP | Frameworks | DevOps | Software Architecture</h3>
+<h3 align="center">I am a Software & Data Engineer -- I do Infra too.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshajiniran" alt="joshajiniran" /></a> </p>
+- 📫 You can reach me at **josuajiniran@gmail.com**
 
-- 🌱 I’ve always gotten fascinated with **IoT 😍**
-
-- 📫 How to reach me **josuajiniran@gmail.com**
-
-- ⚡ Fun fact **Plays piano, guitar, write lyrics, and sing them. Quite introvertish, possesses great sense of humour. 🤓**
+- ⚡ Fun fact: **I play the piano, guitar, write lyrics, and sing them. I'm quite introverted and possess a good sense of humour. 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajiniranjosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajiniranjosh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/joshua-ajiniran-72088157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/joshua-ajiniran-72088157" height="30" width="40" /></a>
 </p>
 
